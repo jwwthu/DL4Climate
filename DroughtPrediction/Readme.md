@@ -1,7 +1,7 @@
 This is the folder for the drought prediction with machine learning and deep learning models.
 
 If you find this repository helpful, you may consider cite our relevant work:
-* Coming soon
+* Jiang W, Luo J. An Evaluation of Machine Learning and Deep Learning Models for Drought Prediction using Weather Data[J]. Journal of Intelligent & Fuzzy Systems, 2022.
 
 # Dependencies
 Anaconda is highly recommended for installing Python.
